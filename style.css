@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: ForestGreen;
+    font-family: Cormorant;
+    border: 10px solid DarkGreen;
+    font-size: 20px;
+}
+header a{
+    background-color: Silver;
+    color: Indigo;
+    text-decoration: none;
+}
+main h1{
+    background-color: FireBrick;
+    color: aliceblue;
+    border: 5px solid DeepPink;
+    text-align: center;
+    border-radius: 15px;
+}
+footer{
+    background-color: rgb(132, 0, 255);
+    color: white;
+}
+footer p{
+    background-color: darkblue;
+    font-family: IBM Plex Sans;
+    font-size: 20px;
+    border: 10px solid DeepSkyBlue;
+}
+select{
+    background-color: Olive;
+    color: rgba(255, 255, 255, 0.89);
+    font-size: 15px;
+    border: 5px solid LimeGreen;
+    border-radius: 7px;
+}
+select option{
+    background-color: YellowGreen;
+    color: rgb(29, 29, 29);
+}
+.pr{
+    border: 10px solid Gold;
+    border-radius: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgba(167, 6, 108, 0.842);
+    font-size: 25px;
+}
+main p{
+    border: 5px solid Navy;
+    font-size: 25px;
+    font-family:Cormorant;
+    border-radius: 10px;
+    background-color: rgb(0, 151, 25);
+    color: white;
+}
+body a{
+    text-decoration: none;
+}
